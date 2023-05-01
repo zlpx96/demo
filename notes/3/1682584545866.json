@@ -1,0 +1,25 @@
+{
+  "time": 1682584545866,
+  "blocks": [
+    {
+      "id": "VA2krSgDZB",
+      "type": "header",
+      "data": {
+        "text": "Welcome to Wave Note",
+        "level": 2
+      }
+    },
+    {
+      "id": "zZ5RkkGf_-",
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Note is awesome",
+          "EditorJS is amazing"
+        ]
+      }
+    }
+  ],
+  "version": "2.26.5"
+}
