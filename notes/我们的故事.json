@@ -1,8 +1,8 @@
 {
-  "time": 1684560531530,
+  "time": 1684562087212,
   "blocks": [
     {
-      "id": "k32DUVd3vV",
+      "id": "tE4YCnaL12",
       "type": "header",
       "data": {
         "text": "Welcome to Wave Note",
@@ -10,13 +10,14 @@
       }
     },
     {
-      "id": "CYgek17sp8",
+      "id": "fVWMe04KgG",
       "type": "list",
       "data": {
         "style": "ordered",
         "items": [
           "Note is awesome",
-          "EditorJS is amazing11"
+          "EditorJS is amazing2222",
+          "我们的故事"
         ]
       }
     }
