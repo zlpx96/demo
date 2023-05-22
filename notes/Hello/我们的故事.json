@@ -1,0 +1,54 @@
+{
+  "time": 1684562378085,
+  "blocks": [
+    {
+      "id": "tE4YCnaL12",
+      "type": "header",
+      "data": {
+        "text": "Welcome to Wave Note",
+        "level": 2
+      }
+    },
+    {
+      "id": "fVWMe04KgG",
+      "type": "list",
+      "data": {
+        "style": "ordered",
+        "items": [
+          "Note is awesome",
+          "EditorJS is amazing2222",
+          "我们的故事"
+        ]
+      }
+    },
+    {
+      "id": "5-JYlfHsR7",
+      "type": "paragraph",
+      "data": {
+        "text": "件名称修改。"
+      }
+    },
+    {
+      "id": "BG9QU5kyE4",
+      "type": "paragraph",
+      "data": {
+        "text": "2、在特定目录下创建文件。"
+      }
+    },
+    {
+      "id": "1eyGmP67Zc",
+      "type": "paragraph",
+      "data": {
+        "text": "3、配置远程访问仓库。"
+      }
+    },
+    {
+      "id": "xiexAFd5Z4",
+      "type": "paragraph",
+      "data": {
+        "text": "自定义一个插件"
+      }
+    }
+  ],
+  "version": "2.26.5"
+}
