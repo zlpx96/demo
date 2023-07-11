@@ -1,5 +1,5 @@
 {
-  "time": 1685671225108,
+  "time": 1688129681198,
   "blocks": [
     {
       "id": "k32DUVd3vV",
@@ -18,13 +18,6 @@
           "Note is awesome",
           "EditorJS is amazingererer"
         ]
-      }
-    },
-    {
-      "id": "OBeeqTRSot",
-      "type": "paragraph",
-      "data": {
-        "text": "1"
       }
     }
   ],
